@@ -2,7 +2,7 @@ require('dotenv').config()
 const express = require('express');
 const cookieParser = require('cookie-parser');
 const mongoose = require('mongoose');
-const session = require('express-session');
+const session = require('cookie-session');
 const crypto = require('crypto');
 const nodemailer = require('nodemailer');
 const bcrypt = require('bcryptjs');
