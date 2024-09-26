@@ -1,0 +1,114 @@
+.headerBtn button{
+    border-radius: 30px;
+    border: none;
+    padding: 6px 12px;
+    width: 120px;
+    color: white;
+}
+
+.welcomeBack{
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.signIn{
+    color: white;
+    font-size: 21px;
+
+}
+
+.logIn{
+    background-color: #EF5DA8;
+    border-color: #EF5DA8;
+}
+
+.logIn:hover{
+    background-color: #ee3f99;
+    border-color: #EF5DA8;
+}
+
+.signUp{
+    background-color: #7879F1;
+    border-color: #7879F1;
+}
+
+.signUp:hover{
+    background-color: #4141ee;
+    border-color: #7879F1;
+}
+
+.left-login{
+    background-color: #FCDDEC;
+    border-radius: 30px;
+    box-shadow: 16px 32px 30px #0000002b ;
+}
+
+.right-login{
+    background-color: #A5A6F6;
+    border-radius: 30px;
+    box-shadow: 16px 32px 30px #0000002b ;
+}
+
+.signInBtn{
+    width: 80%;
+    background-color: #EF5D5D;
+    padding: 10px 0px;
+    border: none;
+    color: white;
+    border-radius: 30px;
+    font-size: 13px;
+}
+
+
+
+.signInBtn:hover{
+    background-color: #ed3c3c;
+}
+
+.signUpBtn{
+    width: 80%;
+    background-color: #5D5FEF;
+    padding: 10px 0px;
+    border: none;
+    color: white;
+    border-radius: 30px;
+    font-size: 13px;
+}
+
+.signUpBtn:hover{
+    background-color: #393cf4;
+}
+
+.error {
+    color: red;
+    font-size: 0.9em;
+    margin-top: 5px;
+}
+
+.launch-app{
+    background-color: #FCDDEC;
+    width: 480px;
+    height: 700px;
+    box-shadow: -84px 59px 50px #a6a6a66e;
+}
+
+.login-details{
+    width: 480px;
+    height: 700px;
+    box-shadow: -84px 59px 50px #a6a6a66e;
+    z-index: 10;
+}
+
+.logo-app {
+    margin-top: 40px;
+}
+
+.fw-fs{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.effect-button{
+    box-shadow: 3px 5px 4px #00000042;
+}
