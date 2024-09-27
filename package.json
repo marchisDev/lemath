@@ -28,7 +28,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "@types/node": "^20.14.8"
+    "@types/node": "^18.0.0"
   },
   "engines": {
     "node": "18.4.0",
